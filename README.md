@@ -43,7 +43,7 @@ Live demo: `https://it-operations-center-example.streamlit.app`
 
 Update these after deployment:
 
-- Portfolio: `https://your-portfolio-url.netlify.app`
+- Portfolio: `https://ayman-it-portfolio.vercel.app`
 - GitHub repository: `https://github.com/AYMANABULLATIF/your-portfolio-repo`
 - AI Helpdesk Support Assistant: `https://ai-itdesk-assistant.streamlit.app`
 - IT Operations Center: `https://it-operations-center-example.streamlit.app`

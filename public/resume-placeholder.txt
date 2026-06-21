@@ -1,0 +1,5 @@
+Place Ayman Abdullatif's resume PDF in this folder as:
+
+resume-ayman-abdullatif.pdf
+
+The website points to /resume-ayman-abdullatif.pdf as a placeholder download link.
